@@ -1,3 +1,5 @@
+# https://www.hackerrank.com/challenges/largest-rectangle
+
 N = int(raw_input().strip())
 height_list = [int(x) for x in raw_input().strip().split()]
 
